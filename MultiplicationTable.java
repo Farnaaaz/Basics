@@ -1,6 +1,6 @@
 //This code print the multiplication table 1X100
 
-public static void main(String[] arg){
+public static void main(String[] args){
 
   for (i=1 ; i<=10 ; i++)
   {
