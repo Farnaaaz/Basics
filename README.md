@@ -1,3 +1,3 @@
-# For-Loops
+# Basics
 
 some basic useful codes
