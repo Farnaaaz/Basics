@@ -1,3 +1,3 @@
 # For-Loops
 
-Playing around with foor loops
+some basic useful codes
