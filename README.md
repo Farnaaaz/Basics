@@ -1,3 +1,3 @@
 # Basics
 
-some basic useful codes
+some basic codes
